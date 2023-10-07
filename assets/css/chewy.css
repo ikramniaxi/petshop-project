@@ -1230,7 +1230,7 @@ color: rgb(150, 147, 147);
 }
 .cat-supllies p{
   color:#666;
-  font-size: 0.8rem;
+  font-size: 18px;
 }
                                    /* experts-available */
 .experts-available{
@@ -1384,10 +1384,11 @@ li{
 }
 .pharmacy{
   display: flex;
+  justify-content: start;
   justify-content: space-evenly;
   align-items: center;
   flex-direction: row;
-  margin-left: 3rem;
+  /* margin-left: 3rem; */
 }
 .pharmacy img{
   padding-right: 0.4rem;
@@ -1398,8 +1399,8 @@ li{
   height:2.5rem;
 }
 .img2 img {
-  width: 3rem;
-  height:2.5rem;
+  width: 6.5rem;
+  height:6.6rem;
 
 }
 .app-img img{
@@ -1432,12 +1433,12 @@ li{
 
   }
   .logo{
-    background-color: 	 #943d24 !important;
+    	  background-color:  #174b61!important ;
     padding:0.5rem 0.5rem 0.5rem 0.5rem;
     display: flex;
     justify-content:flex-start;
     align-items: center;
-
+ 
 }
 .none{
   display: block;
@@ -1880,7 +1881,7 @@ a {
     border:1px solid rgb(235, 229, 229);
   }
   .logo{
-    background-color:  	 #943d24 !important;
+    background-color:  #174b61!important;
     padding:0.5rem 0.5rem 0.5rem 0.5rem;
     display: flex;
     justify-content:flex-start;
@@ -2329,7 +2330,7 @@ a {
     border:1px solid rgb(235, 229, 229);
   }
   .logo{
-    background-color: #943d24 !important;
+    background-color:  #174b61!important;
     padding:0.5rem 0.5rem 0.5rem 0.5rem;
     display: flex;
     justify-content:flex-start;
