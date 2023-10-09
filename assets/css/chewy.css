@@ -844,10 +844,10 @@ color: rgb(87, 84, 84);
   font-size: 0.8rem;
   color:grey;
 }
-.kib-product-message--promotion-default {
+/* .kib-product-message--promotion-default {
   
   background-color: var(--chirp-ui-elements-promotion-primary,#006b2b);
-}
+} */
 .kib-product-message--promotion-default {
   font-size: 0.6rem;
   padding: var(--chirp-spacing-s1,.4rem);
