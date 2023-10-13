@@ -153,7 +153,7 @@ header{
   z-index: 2;
 }
 .logo{
-    background-color: rgb(11, 25, 228);
+  background-color:  #174b61!important;
     padding:1.3rem 0.5rem 1rem 2rem;
     display: flex;
     justify-content:space-evenly;
@@ -517,18 +517,18 @@ font-size:1rem;
     padding:0.5rem 5rem 0.5rem 1rem;;
     transition: all .15s ease-out;
 }
-.loginField:focus{
+/* .loginField:focus{
   border: 1px solid  #ef6c00 !important;
-}
+} */
 .forgetPass{
     text-decoration: none;
     display:flex;
     justify-content: end;
 }
 .left-login button{
-    background-color: #ef6c00;
+  background-color:  #174b61!important;
     color: #fff;
-    border: 0.1rem solid #ef6c00;
+    border: 0.1rem solid #174b61;
     line-height: 1;
     /* font-family: Roboto,Franklin Gothic Medium,Tahoma,sans-serif; */
     font-weight: 600;

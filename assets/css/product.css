@@ -1237,6 +1237,12 @@ user-select: none;
   width: 2.5rem;
   height: 2.5rem;
 }
+.relevence{
+  border-radius: 20px !important;
+}
+.offBg{
+  background-color: transparent !important;
+}
 .svg{
   color: var(--chirp-text-inverse, #ffffff);
     height: 2.5rem;

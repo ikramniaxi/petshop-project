@@ -304,7 +304,7 @@ font-size:1rem;
 
   }
   .header-nav{
-    background-color: rgb(11, 25, 228) !important;
+    background-color: #174b61!important;
     display: flex !important;
     justify-content: space-evenly;
     align-items: center;
@@ -2568,7 +2568,7 @@ font-size: 0.8rem;
 
 .slider_buy {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   overflow: auto;
 }
 
