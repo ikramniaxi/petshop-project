@@ -153,11 +153,11 @@ z-index: 1000;
 header{
   position: sticky; top: 0;
   z-index: 2;
-  height: 75px;
+  /* height: 75px; */
   /* padding-top: 10px; */
 }
 .logo{
-    /* background-color:  #174b61!important; */
+    background-color:  #174b61!important;
     padding:0.3rem 0.5rem 0rem 2rem;
     display: flex;
     justify-content:space-evenly;
